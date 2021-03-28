@@ -3248,33 +3248,26 @@ input, select, textarea {
 		}
 
 		.wrapper.style2 {
-			background-color: #5052b5;
-		}
-
-		.wrapper.style2-alt {
-			background-color: #3e4094;
-		}
-
-		.wrapper.style3 {
 			background-color: #76349d;
 		}
 
-		.wrapper.style3-alt {
+		.wrapper.style2-alt {
 			background-color: #6b2b91;
 		}
 
-		.wrapper.style4 {
-			background-color: #c011a3;
+		.wrapper.style3 {
+			background-color: #5052b5;
 		}
 
-		.wrapper.style4-alt {
-			background-color: #a5158d;
+		.wrapper.style3-alt {
+			background-color: #3e4094;
 		}
-		.wrapper.style5 {
+
+		.wrapper.style4 {
 			background-color: #141a6e;
 		}
 
-		.wrapper.style5-alt {
+		.wrapper.style4-alt {
 			background-color: #161d7e;
 		}
 
